@@ -1,15 +1,16 @@
 ---
 typora-copy-images-to: ./media
 ---
-#搭建vue项目
+
+# Vue基础
+
+# 搭建vue项目
  $ npm install -g vue-cli
  $ vue init webpack my-project
  $ cd my-project
  $ npm install
  $ npm run dev
-
-# Vue基础
-
+ 
 ## 相关概念
 
 ### 混合开发和前后端分离
